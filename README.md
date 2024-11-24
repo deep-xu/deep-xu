@@ -1,12 +1,5 @@
 <div align="center">
-    <img height="150" src="https://camo.githubusercontent.com/C:\Users\Deepanshu\Downloads\b726a047-e9f9-45a4-97e0-365dbadb318c.jpeg
-"/>
-  </div>
-
-###
-
-<div align="center">
-    <img height="150" src=""  />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Adnan+Alam!;Cybersecurity+Enthusiast;Ethical+Hacker;Code+Guardian" alt="Typing SVG" />
   </div>
 
 ###
@@ -49,6 +42,32 @@ Currently, I’m a part of the **web development team in OWASP Chapter**, where 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+
+###
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="github">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="www.linkedin.com/in/
+deepanshu-singh-67a6062b9
+">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:deepanshu.official1214@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+###
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanalam04&theme=redical" alt="Contribution Graph" />
+</p>
 
 ###
 
