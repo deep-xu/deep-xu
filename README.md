@@ -4,10 +4,6 @@
 
 ###
 
-<h1 align="left">👋 Hello, I'm Deepanshu! </h1>
-
-###
-
 <p align="left">Frontend Developer | OWASP Chapter | Tech Enthusiast</p>
 
 ###
