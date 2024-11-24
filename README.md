@@ -87,7 +87,7 @@ Currently, I’m a part of the **web development team in OWASP Chapter**, where 
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="github">
+  <a href="https://github.com/deep-xu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="www.linkedin.com/in/
