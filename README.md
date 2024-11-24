@@ -42,6 +42,24 @@ Currently, I’m a part of the **web development team in OWASP Chapter**, where 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+    
+###
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-xu&theme=redical" alt="Contribution Graph" />
+</p>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=deep-xu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  </div>
 
 ###
 
@@ -61,20 +79,4 @@ deepanshu-singh-67a6062b9
   </a>
 </p>
 
-###
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-xu&theme=redical" alt="Contribution Graph" />
-</p>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=deep-xu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  </div>
+  
