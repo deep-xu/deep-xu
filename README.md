@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 About me</h2>
 
 ###
 
@@ -23,7 +23,7 @@ Currently, I’m a part of the **web development team in OWASP Chapter**, where 
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">👨🏻‍💻 I code with</h2>
 
 ###
 
