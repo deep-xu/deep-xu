@@ -7,8 +7,18 @@
   <p align="center">
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   </p>
- 
+
  ###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+ ###
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=deep-xu&style=flat-square&color=blue" alt="Profile views counter"/>
+  </p>
 
 <p align="left">✨ Frontend Developer | OWASP Chapter | Tech Enthusiast</p>
 
