@@ -4,6 +4,12 @@
 
 ###
 
+  <p align="center">
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  </p>
+ 
+ ###
+
 <p align="left">✨ Frontend Developer | OWASP Chapter | Tech Enthusiast</p>
 
 ###
@@ -56,6 +62,15 @@ Currently, I’m a part of the **web development team in OWASP Chapter**, where 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=deep-xu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   </div>
+
+###
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  🚀 Web Developer OWASP Sharda University Chapter<br>
+</p>
+
 
 ###
 
