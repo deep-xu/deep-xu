@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Frontend Developer | OWASP Chapter | Tech Enthusiast</p>
+<p align="left">✨ Frontend Developer | OWASP Chapter | Tech Enthusiast</p>
 
 ###
 
