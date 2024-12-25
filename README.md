@@ -78,7 +78,7 @@ Currently, I’m a part of the **web development team in OWASP Chapter**, where 
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  🚀 Web Developer OWASP Sharda University Chapter<br>
+  🚀 Null<br>
 </p>
 
 
